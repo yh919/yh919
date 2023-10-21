@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**yh919/yh919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Youssef Hussein
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+Experienced React.js Front-End Developer with a strong track record of delivering high-quality, responsive web applications. Proficient in React.js, Next.js, and modern web technologies. Expertise in UI/UX design, component-based architecture, and performance optimization. Adept at collaborating with cross-functional teams to create exceptional user experiences.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhussein919)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/falconshittalks)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS , PHP , ReactJS , NextJS
+
+
+![Logo](https://i.imgur.com/OaDdhBo.jpg)
+
