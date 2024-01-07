@@ -13,7 +13,7 @@ Experienced React.js Front-End Developer with a strong track record of deliverin
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS , PHP , ReactJS , NextJS
+Javascript, HTML, CSS , SASS ,  PHP , ReactJS , NextJS
 
 
 ![Logo](https://i.imgur.com/OaDdhBo.jpg)
