@@ -15,6 +15,7 @@ Experienced React.js Front-End Developer with a strong track record of deliverin
 ## 🛠 Skills
 Javascript, HTML, CSS , SASS ,  PHP , ReactJS , NextJS
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yh919&show_icons=true&locale=en&layout=compact" alt="yh919" /></p>
 
 ![Logo](https://i.imgur.com/OaDdhBo.jpg)
 
