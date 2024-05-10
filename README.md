@@ -14,10 +14,7 @@ Experienced React.js Front-End Developer with a strong track record of deliverin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yh919&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="yh919" /> </p>
 
-## 🛠 Skills
-Javascript, HTML, CSS , SASS ,  PHP , ReactJS , NextJS
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yh919&show_icons=true&locale=en&layout=compact" alt="yh919" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yh919&theme=tokyonight&border_radius=0&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![Logo](https://i.imgur.com/OaDdhBo.jpg)
 
