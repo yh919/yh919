@@ -6,7 +6,7 @@
 ## 🚀 About Me
 Experienced React.js Front-End Developer with a strong track record of delivering high-quality, responsive web applications. Proficient in React.js, Next.js, and modern web technologies. Expertise in UI/UX design, component-based architecture, and performance optimization. Adept at collaborating with cross-functional teams to create exceptional user experiences.
 
-## Currently working @ [Vondera](https://vondera.app)
+## [Resume](https://drive.google.com/file/d/1P8Tyuax7r_Ll2AK2JoX-0PyKNgQYaXRu/view?usp=drive_link)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefhussein919)
