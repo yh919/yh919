@@ -67,7 +67,6 @@ Experienced React.js Front-End Developer with a strong track record of deliverin
     </a>
   </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yh919&theme=tokyonight&border_radius=0&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ![Logo](https://i.imgur.com/OaDdhBo.jpg)
 
