@@ -9,7 +9,6 @@ Experienced React.js Front-End Developer with a strong track record of deliverin
 ## [Resume](https://docs.google.com/document/d/1FbtLOxuXmZFHitkJQTsBzh5LQVKyQ0B1/edit?usp=sharing&ouid=109934333012884365997&rtpof=true&sd=true)
 
 
-![Visitors](https://dev-passport.vercel.app/yh919-profile-1080x1080.png)
 
 
 ## 🔗 Links
